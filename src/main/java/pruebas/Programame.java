@@ -8,6 +8,7 @@ public class Programame {
 	public List<String> problemaA(List<String> entrada) {
 		ArrayList salida = null;
 		return salida;
+		//sakhbflsaiebgaurweobgñae
 	}
 
 	public List<String> problemaB(List<String> entrada) {
